@@ -1,0 +1,15 @@
+/home/nehe/facultad/siscom/repogit/SisCom-TP1/test_c/bin/Debug/net6.0/test_c
+/home/nehe/facultad/siscom/repogit/SisCom-TP1/test_c/bin/Debug/net6.0/test_c.deps.json
+/home/nehe/facultad/siscom/repogit/SisCom-TP1/test_c/bin/Debug/net6.0/test_c.runtimeconfig.json
+/home/nehe/facultad/siscom/repogit/SisCom-TP1/test_c/bin/Debug/net6.0/test_c.dll
+/home/nehe/facultad/siscom/repogit/SisCom-TP1/test_c/bin/Debug/net6.0/test_c.pdb
+/home/nehe/facultad/siscom/repogit/SisCom-TP1/test_c/obj/Debug/net6.0/test_c.csproj.AssemblyReference.cache
+/home/nehe/facultad/siscom/repogit/SisCom-TP1/test_c/obj/Debug/net6.0/test_c.GeneratedMSBuildEditorConfig.editorconfig
+/home/nehe/facultad/siscom/repogit/SisCom-TP1/test_c/obj/Debug/net6.0/test_c.AssemblyInfoInputs.cache
+/home/nehe/facultad/siscom/repogit/SisCom-TP1/test_c/obj/Debug/net6.0/test_c.AssemblyInfo.cs
+/home/nehe/facultad/siscom/repogit/SisCom-TP1/test_c/obj/Debug/net6.0/test_c.csproj.CoreCompileInputs.cache
+/home/nehe/facultad/siscom/repogit/SisCom-TP1/test_c/obj/Debug/net6.0/test_c.dll
+/home/nehe/facultad/siscom/repogit/SisCom-TP1/test_c/obj/Debug/net6.0/refint/test_c.dll
+/home/nehe/facultad/siscom/repogit/SisCom-TP1/test_c/obj/Debug/net6.0/test_c.pdb
+/home/nehe/facultad/siscom/repogit/SisCom-TP1/test_c/obj/Debug/net6.0/test_c.genruntimeconfig.cache
+/home/nehe/facultad/siscom/repogit/SisCom-TP1/test_c/obj/Debug/net6.0/ref/test_c.dll
