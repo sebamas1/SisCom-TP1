@@ -107,17 +107,18 @@ namespace TEST
                         valores[i] = valor.ToString();
                     }).GetAwaiter().GetResult();
 
-                    
+                     valoresCryptos(nombres[0], valores[0], nombres[1], valores[1]);
                 }
                 else
                 {
                     Console.WriteLine("No ingresó un código correcto");
                     i--;
                 }
+                
                 Console.WriteLine("\n");
             }
 
-            valoresCryptos(nombres[0], valores[1], nombres[1], valores[1]);
+           
              
 
         }
